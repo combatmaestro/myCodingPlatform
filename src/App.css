@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.body{
+  background-color: #b3cccc;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
